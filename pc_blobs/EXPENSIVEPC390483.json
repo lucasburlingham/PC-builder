@@ -1,0 +1,20 @@
+{
+	"title": "EXPENSIVE PC",
+	"config": {
+		"cpu": "https://www.amazon.com/dp/B0BMQJWBDM/?psc=1",
+		"ram": "https://www.amazon.com/dp/B0C7B1C18Y/",
+		"storage": [
+			{"qty": 4, "url": "https://www.amazon.com/dp/B07G3KGYZQ/"},
+			{"qty": 1, "url": "https://www.amazon.com/dp/B07TLYWMYW/?th=1"}
+		],
+		"motherboard": "https://www.amazon.com/dp/B0BY6YRT41/?psc=1",
+		"gpu": "https://www.amazon.com/dp/B0C8BPW1SP/?psc=1",
+		"psu": "https://www.amazon.com/dp/B0CQMSTN94/?th=1",
+		"case": "https://www.amazon.com/dp/B0BQSL8JG2/?th=1",
+		"other": [
+			{"qty": 3, "url": "https://www.amazon.com/dp/B07C5L4QGN/"},
+			{"qty": 1, "url": "https://www.amazon.com/dp/B08PNMJYRW/?psc=1"},
+			{"qty": 1, "url": "https://www.amazon.com/dp/B07Y87YHRH/"}
+		]
+	}
+}

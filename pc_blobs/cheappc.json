@@ -1,0 +1,19 @@
+{
+	"title": "Cheap PC",
+	"config": {
+		"cpu": "https://www.amazon.com/dp/B0CQ4JV8D5/",
+		"ram": "https://www.amazon.com/dp/B0C7B1C18Y/",
+		"storage": [
+			{"qty": 4, "url": "https://www.amazon.com/dp/B07G3KGYZQ/"},
+			{"qty": 1, "url": "https://www.amazon.com/dp/B0B25LQQPC/"}
+		],
+		"motherboard": "https://www.amazon.com/dp/B0CH92B3S2/",
+		"gpu": "Integrated",
+		"psu": "https://www.amazon.com/dp/B014W3EMAO/",
+		"case": "https://www.amazon.com/dp/B0CHPRKW18/",
+		"other": [
+			{"qty": 3, "url": "https://www.amazon.com/dp/B07C5L4QGN/"},
+			{"qty": 1, "url": "https://www.amazon.com/dp/B0CDQLJ4JS/"}
+		]
+	}
+}
